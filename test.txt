@@ -1,3 +1,6 @@
 git
 
 aaaaaaaaaaaaaaaaaaaa
+
+.git add
+.git commit
